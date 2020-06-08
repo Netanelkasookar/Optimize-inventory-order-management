@@ -8,7 +8,9 @@ Instructions
 5. After the software has finished, a new file will be created for the "Application" name of the result containing the new order point values.
 
 Download:
-https://gofile.io/d/kvKxF8
+https://gofile.io/d/5q5so6
+or
+https://easyupload.io/ap379k
 
 Password:
-scemcsce
+scesce
